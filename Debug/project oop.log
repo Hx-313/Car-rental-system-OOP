@@ -1,0 +1,20 @@
+﻿  project oop.cpp
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(58,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(106,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(190,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(221,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(231,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(269,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(281,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(211,14): warning C4101: 'z': unreferenced local variable
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(252,14): warning C4101: 'v': unreferenced local variable
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(170,24): warning C4101: 'y': unreferenced local variable
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(316,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(582,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(583,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(584,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(585,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(801,6): warning C4101: 'giyal': unreferenced local variable
+C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\project oop\project oop.cpp(801,13): warning C4101: 'back': unreferenced local variable
+  project oop.vcxproj -> C:\Users\usama abdur rehman\Desktop\project oop1 final\project oop final\project oop\Debug\project oop.exe
